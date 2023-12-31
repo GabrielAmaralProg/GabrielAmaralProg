@@ -1,7 +1,7 @@
 ### Olá, meu nome Gabriel este aqui meu portfólio e fique a vontade. 😁
 
 #### (Hello, my name is Gabriel, this is my portfolio and feel free.)
-
+<hr>
 <div>
 
 ### Quer trocar uma ideia? Então está meus contatos e minhas redes sociais.
